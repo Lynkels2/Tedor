@@ -1,2 +1,2 @@
 # Tedor
-Updated version tedor culture(bootstrap include)
+Updated version tedor culture(bootstrap included)
